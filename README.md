@@ -50,4 +50,4 @@ The program will listen to your voice and convert it into text.
 - Voice Commands
 - Accessibility Tools
 - Hands-Free Systems
-- Smart Devices
+- Smart Device
